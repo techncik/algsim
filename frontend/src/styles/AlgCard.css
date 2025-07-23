@@ -1,0 +1,36 @@
+.container {
+    background-color: grey;
+    width: 33%;
+    height: 40%;
+
+    flex: 1 0 21%;
+    
+
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+}
+
+.title {
+    background-color: grey;
+}
+
+.thumbnail {
+    background-color: aliceblue;
+    position: relative;
+}
+
+.placeholder-image {
+    background-color: aquamarine;
+}
+
+.placeholder {
+    height: 100%;
+    width: 100%;
+}
+
+.complexity {
+    position: absolute;
+    top: 8px;
+    left: 10px;
+    font-size: 30px;
+}
